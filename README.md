@@ -1,4 +1,4 @@
-# Git GIF-STRAVAGANZA (NTL-DS-040124)
+# Git GIF-STRAVAGANZA (DS-NTL-091624)
 
 Today's challenge is to contribute to a Git repository, using branches and pull requests! We'll be using a *Git branching workflow* so we can all contribute to this same README file.
 
@@ -24,13 +24,3 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Daniel Burdeno
 
-![Taco Tuesday gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZpZ2xqeTRuNTBnZ2kwc3hueDM5d3RjaHFnNGQwbWF5bDVnZDhoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ABzWgpsQUWerU3zAhD/giphy.gif)
-
-### Arkin Satija
-
-![arkin gif](https://blog.hubspot.com/hs-fs/hubfs/Smiling%20Leo%20Perfect%20GIF.gif?width=595&height=400&name=Smiling%20Leo%20Perfect%20GIF.gif)
-
-
-### Richter Nietzsche
-
-![cat gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ozN25nNTAzeHF5NjF6aXhrN25mYm1mZ2RwOTRsdW1oeHJyOHVldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BBNYBoYa5VwtO/giphy.gif)
