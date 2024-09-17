@@ -36,7 +36,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Jayla
 
-
+![Sleepy puppy gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRwamJ2M2RpZ3F6dDIwYjhmMjI5NmdmMG5yaGY4emN2M2VjMHdvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZGsRJ0iOIT3AwupG69/giphy-downsized.gif)
 
 ### Eli
 
