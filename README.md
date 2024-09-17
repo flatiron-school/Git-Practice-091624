@@ -22,5 +22,30 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ![Bill Murray you got this from giphy](https://media.giphy.com/media/11F0d3IVhQbreE/giphy.gif)
 
-### Daniel Burdeno
+### Daniel
+
+
+
+### Elif 
+
+
+
+### Ricky
+
+
+
+### Jayla
+
+
+
+### Eli
+
+
+
+### Jeesoo
+
+
+
+### Anbita
+
 
