@@ -24,7 +24,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Daniel
 
-
+![Cool cat gif from giphy](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3h2aDk1cGdnaHd1YXFkZXIxcmE2eW0xYm1iYzd4aXJ1Y2YzMG4wcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ule4vhcY1xEKQ/giphy-downsized.gif)
 
 ### Elif 
 
