@@ -31,7 +31,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### Ricky
-
+![Expert juggler from giphy.](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJlOWV6bGVocTd5dmw2eGU4N2tzOXowNm5kNDV1dWR0ODBzMjRueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C9LII4ylmquoQQ4SkC/giphy-downsized.gif)
 
 
 ### Jayla
