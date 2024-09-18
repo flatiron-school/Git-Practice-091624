@@ -43,6 +43,8 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### Jeesoo
+### Jee Soo Jhun
+![AmIdoingRight](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVmeHNlMG14cDI5ZXpjbGRtaXA5dGhyeDEyaXpyeHZhZHhvZGVxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbAFrrDVGAvZu/giphy-downsized.gif)
 
 
 
