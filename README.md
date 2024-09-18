@@ -39,7 +39,7 @@ I will either accept your pull request, or send you feedback on what you need to
 ![Sleepy puppy gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRwamJ2M2RpZ3F6dDIwYjhmMjI5NmdmMG5yaGY4emN2M2VjMHdvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZGsRJ0iOIT3AwupG69/giphy-downsized.gif)
 
 ### Eli
-
+![Rat studiously taking notes with a chewed pencil](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3U5em55cXJ4ZzB5Z2x0dXo1emkxOWVqeWRyODFuanY2MmVrYmR3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xFnxVuOe6jAbqgy9uR/giphy.gif)
 
 
 ### Jeesoo
