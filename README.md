@@ -28,7 +28,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Elif 
 
-![feeling anxiety](https://giphy.com/gifs/cat-glas2022-nervouscat-4yr51JxjJV8wAMBcAu)
+![feeling anxiety](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRhOWhuN3FvNXE1N291cXhhY20yOXZuY2VpcGMwdWJjODhwbm96YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4yr51JxjJV8wAMBcAu/giphy.gif)
 
 ### Ricky
 ![Expert juggler from giphy.](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJlOWV6bGVocTd5dmw2eGU4N2tzOXowNm5kNDV1dWR0ODBzMjRueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C9LII4ylmquoQQ4SkC/giphy-downsized.gif)
